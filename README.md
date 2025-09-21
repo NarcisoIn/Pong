@@ -48,6 +48,15 @@ Se puede generar un ejecutable en Windows usando PyInstaller:
 ```
 El ejecutable se generará dentro de la carpeta dist.
 
+## 📈 Mejoras futuras 
+1. Agregar modos de juego adicionales, como “contrarreloj” o “nivel de dificultad”.
+2. Incluir efectos de sonido y música de fondo más variados.
+3. Mejorar la inteligencia artificial para el jugador 2.
+4. Optimizar el juego para distintos tamaños de pantalla y resoluciones.
+5. Guardar puntuaciones máximas y estadísticas de juego.
+6. Implementar soporte para controles externos o gamepads.
+7. Añadir animaciones más atractivas para la pelota y las paletas.
+
 ## 👨‍💻 Créditos
 Juego desarrollado por **Iván Narciso Guzmán Hernández** como práctica académica y personal para el aprendizaje de programación en Python, desarrollo de videojuegos con Pygame y manejo de recursos multimedia. Este proyecto permite practicar conceptos de lógica de programación, manejo de eventos, colisiones y creación de interfaces gráficas interactivas.
 Icono y sonidos incluidos para mejorar la experiencia de juego.
