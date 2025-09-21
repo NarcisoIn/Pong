@@ -1,10 +1,10 @@
-# Proyecto Pong en Python
+# 🏓 Proyecto Pong en Python
 Este proyecto consiste en una **versión del juego clásico Pong** desarrollada en **Python** utilizando la biblioteca **Pygame**. Fue creado como proyecto educativo y de práctica en programación de videojuegos simples.
 
-## Descripción
+## 📌 Descripción
 El juego permite que **dos jugadores** compitan en la misma computadora controlando cada uno su paleta para evitar que la pelota salga de su lado de la pantalla. Incluye sonidos, marcadores visibles y una pantalla de ganador con opción de reiniciar.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 - Control de paletas:
   - **Jugador 1:** `W` (arriba) / `S` (abajo)
   - **Jugador 2:** `Flecha Arriba` / `Flecha Abajo`
@@ -18,7 +18,7 @@ El juego permite que **dos jugadores** compitan en la misma computadora controla
 - Icono personalizado en la ventana del juego.
 - Ejecutable `.exe` disponible para Windows.
 
-## Requisitos
+## 🛠️ Requisitos
 - Python 3.8 o superior
 - Pygame
 Instalación de Pygame:
@@ -27,7 +27,7 @@ Instalación de Pygame:
 pip install pygame
 ```
 
-## Cómo ejecutar
+## 📖 Cómo ejecutar
 1. Ejecuta el script pong.py con Python:
     ```
      python pong.py
@@ -40,7 +40,7 @@ pip install pygame
     `s` para volver a jugar
     `n` para salir del juego
 
-## Generar archivo ejecutable (.exe)
+## ⚙️ Generar archivo ejecutable (.exe)
 Se puede generar un ejecutable en Windows usando PyInstaller:
 ```
   pip install pyinstaller
@@ -48,6 +48,6 @@ Se puede generar un ejecutable en Windows usando PyInstaller:
 ```
 El ejecutable se generará dentro de la carpeta dist.
 
-## Créditos
+## 👨‍💻 Créditos
 Juego desarrollado por Iván Narciso Guzmán Hernández como práctica académica y personal para el aprendizaje de programación en Python, desarrollo de videojuegos con Pygame y manejo de recursos multimedia. Este proyecto permite practicar conceptos de lógica de programación, manejo de eventos, colisiones y creación de interfaces gráficas interactivas.
 Icono y sonidos incluidos para mejorar la experiencia de juego.
