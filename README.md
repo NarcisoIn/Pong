@@ -28,7 +28,11 @@ pip install pygame
 ```
 
 ## Cómo ejecutar
-1. Ejecuta el script pong.py con Python: ``` python pong.py ``` o abre el archivo .exe si ya generaste el ejecutable.
+1. Ejecuta el script pong.py con Python:
+    ```
+     python pong.py
+    ```
+   o abre el archivo .exe si ya generaste el ejecutable.
 2. Selecciona la meta de puntos en el menú principal.
 3. Controla las paletas según el jugador.
 4. El primer jugador en alcanzar la meta de puntos gana.
