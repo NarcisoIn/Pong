@@ -48,7 +48,7 @@ Se puede generar un ejecutable en Windows usando PyInstaller:
 ```
 El ejecutable se generará dentro de la carpeta dist.
 
-## 📈 Mejoras futuras 
+## 📈 Posibles mejoras
 1. Agregar modos de juego adicionales, como “contrarreloj” o “nivel de dificultad”.
 2. Incluir efectos de sonido y música de fondo más variados.
 3. Mejorar la inteligencia artificial para el jugador 2.
