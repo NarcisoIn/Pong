@@ -37,8 +37,8 @@ pip install pygame
 3. Controla las paletas según el jugador.
 4. El primer jugador en alcanzar la meta de puntos gana.
 5. En la pantalla de ganador, presiona:
-  s para volver a jugar
-  n para salir del juego
+    s para volver a jugar
+    n para salir del juego
 
 ## Generar archivo ejecutable (.exe)
 Se puede generar un ejecutable en Windows usando PyInstaller:
