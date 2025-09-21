@@ -49,5 +49,5 @@ Se puede generar un ejecutable en Windows usando PyInstaller:
 El ejecutable se generará dentro de la carpeta dist.
 
 ## 👨‍💻 Créditos
-Juego desarrollado por Iván Narciso Guzmán Hernández como práctica académica y personal para el aprendizaje de programación en Python, desarrollo de videojuegos con Pygame y manejo de recursos multimedia. Este proyecto permite practicar conceptos de lógica de programación, manejo de eventos, colisiones y creación de interfaces gráficas interactivas.
+Juego desarrollado por **Iván Narciso Guzmán Hernández** como práctica académica y personal para el aprendizaje de programación en Python, desarrollo de videojuegos con Pygame y manejo de recursos multimedia. Este proyecto permite practicar conceptos de lógica de programación, manejo de eventos, colisiones y creación de interfaces gráficas interactivas.
 Icono y sonidos incluidos para mejorar la experiencia de juego.
