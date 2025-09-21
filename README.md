@@ -30,12 +30,12 @@ pip install pygame
 ```
 Proyecto Pong/
 │
-├── pong.py          # Archivo principal del juego
-├── pong.ico         # Icono del juego
-├── golpe_paleta.mp3 # Sonido de golpe en la paleta
-├── golpe_pared.mp3  # Sonido de rebote en la pared
-├── punto2.mp3       # Sonido de punto anotado
-└── README.md        # Este archivo
+├── pong.py
+├── pong.ico
+├── golpe_paleta.mp3
+├── golpe_pared.mp3
+├── punto2.mp3
+└── README.md
 ```
 
 ## 📖 Cómo ejecutar
