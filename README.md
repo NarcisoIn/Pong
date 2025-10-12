@@ -1,4 +1,11 @@
 # 🏓 Proyecto Pong en Python
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Interfaz-Tkinter-orange)
+![yfinance](https://img.shields.io/badge/API-YahooFinance-green)
+![Version](https://img.shields.io/badge/Version-1.0-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Este proyecto consiste en una **versión del juego clásico Pong** desarrollada en **Python** utilizando la biblioteca **Pygame**. Fue creado como proyecto educativo y de práctica en programación de videojuegos simples.
 
 ## 📌 Descripción
